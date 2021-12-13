@@ -23,4 +23,5 @@ Finally, we made it. We found the plate chars with pytesseract and easyocr. You 
 # I think easyocr is more successful but I think both fail!
 
 [Yolo Files](https://drive.google.com/drive/folders/1AYmJw1qCZklSXM1su4iicSFR6CfIV7Uk?usp=sharing)
-[My Linkedin Page](https://www.linkedin.com/in/hasan-hüseyin-bulat-1a2208170/)
+
+Questions : [My Linkedin Page](https://www.linkedin.com/in/hasan-hüseyin-bulat-1a2208170/)
