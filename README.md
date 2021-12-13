@@ -20,5 +20,5 @@ Finally, we made it. We found the plate chars with pytesseract and easyocr. You 
 
 
 
-#I think easyocr is more successful but I think both fail!
+# I think easyocr is more successful but I think both fail!
 
